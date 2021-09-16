@@ -1,14 +1,14 @@
-# Title
+# Ivan's Chatbot
 
 Simple (or clever and funny?) description
 
-## Table of Contents
+## What can this chatbot do?
 
-- [Background](#background)
+- [Trivia](#trivia)
 
-- [Install](#install)
+- [Jokes](#jokes)
 
-- [Usage](#usage)
+- [Fun Facts](#funfacts)
 
 ## Background
 
