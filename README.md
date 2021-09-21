@@ -16,7 +16,7 @@ I made this for Code2College Elite 101 as a qualifier project
 
 ## Install
 
-Just make sure you have python and random installed
+Just make sure you have python and random installed please
 
 ## Usage
 
